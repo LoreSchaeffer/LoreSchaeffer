@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋 I'm LoreSchaeffer (Lorenzo) and I'm a software engeenering student and a developer!
 
-<!--
-**LoreSchaeffer/LoreSchaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm working on the Java library [MCLib](https://github.com/MultiCoreNetwork/MCLib) and Spigot/Bungeecord library [MBCore](https://github.com/MultiCoreNetwork/MBCore) and a lot of other things
+- 🌱 I'm learning C++ and improving my knowledges of JavaScript, Python, C#, PHP
+- 💻 Languages I know: Java, Python, C, JavaScript, C#, PHP, HTML, CSS
+- 💬 You can ask me about my projects, collaborations.
+- 🙋🏻‍♂️ Founder and Developer of [MultiCore Network](https://multicore.network)
+- 📫 How to reach me:
+  - 📧 Email [lorenzo.magni96@gmail.com](mailto:lorenzo.magni96@gmail.com)
+  - 🌐 Telegram: [@LoreSchaeffer](https://t.me/LoreSchaeffer)
+  - 📢 Discord: @LoreSchaeffer#9080 or [Discord](https://multicore.network/discord)
+  - 🟣 Twitch: [LoreSchaeffer](https://twitch.tv/LoreSchaeffer)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoreSchaeffer&show_icons=true&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&layout=compact&theme=dracula" />
+</a>
+</p>
