@@ -60,7 +60,7 @@
 
 ## 📫 How to reach me:
 <p>
-  <a href="mailto:lorenzo.magni96@gmail.com"><img align="left" alt="Email" width="26px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/></a>Email &middot; <a href="mailto:lorenzo.magni96@gmail.com">lorenzo.magni96@gmail.com</a>
+  <a href="mailto:loreschaeffer@multicore.network"><img align="left" alt="Email" width="26px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/></a>Email &middot; <a href="mailto:loreschaeffer@multicore.network">loreschaeffer@multicore.network</a>
 </p>
 <p>
   <a href="https://t.me/LoreSchaeffer"><img align="left" alt="Telegram" width="26px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>Telegram &middot; <a href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
