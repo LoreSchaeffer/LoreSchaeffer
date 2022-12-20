@@ -116,8 +116,8 @@
 <p align="center"><a href="https://github.com/MultiCoreNetwork"><img alt="MultiCore Network" src="https://multicore.network/images/navbar-brand.png"/></a></p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&count_private=true&layout=compact&theme=dracula" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoreSchaeffer&count_private=true&show_icons=true&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&count_private=true&layout=compact&theme=dracula" />
