@@ -115,12 +115,10 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoreSchaeffer&count_private=true&show_icons=true&count_private=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&count_private=true&layout=compact&theme=dracula" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoreSchaeffer&count_private=true&theme=dracula" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&count_private=true&theme=dracula" />
 </p>
 
 <br>
