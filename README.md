@@ -1,4 +1,4 @@
-## Hi there 👋 I'm LoreSchaeffer (Lorenzo) and I'm a software engeenering student and a developer!
+## Hi there 👋 I'm LoreSchaeffer (Lorenzo) and I'm a software engineering student and a developer!
 
 ### 🔭 Pinned Projects:
 
