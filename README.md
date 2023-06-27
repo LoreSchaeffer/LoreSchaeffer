@@ -101,7 +101,7 @@
   <a href="mailto:loreschaeffer@multicore.network"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/mail.png"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:loreschaeffer@multicore.network">loreschaeffer@multicore.network</a>
 </p>
 <p>
-  <a href="https://t.me/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Telegram" width="26px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>Telegram &middot; <a style="font-weight: bold;" href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
+  <a href="https://t.me/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Telegram" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/506b04d5b160c9d2d3e0a705854ad37bf58ef3bd/resources/telegram.png"/></a>Telegram &middot; <a style="font-weight: bold;" href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
 </p>
 <p>
   <a href="https://multicore.network/discord"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord &middot; <a style="font-weight: bold;" href="https://multicore.network/discord">@loreschaeffer</a>
