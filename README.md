@@ -120,7 +120,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSchaeffer&count_private=true&theme=dracula" />
 </p>
-
-<br>
-
-<p align="center"><a href="https://github.com/MultiCoreNetwork"><img alt="MultiCore Network" src="https://multicore.network/images/navbar-brand.png"/></a></p>
