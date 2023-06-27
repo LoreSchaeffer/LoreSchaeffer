@@ -58,11 +58,10 @@
   </tr>
   <tr>
     <td>
-      <h3>I'm learning 🌱:</h3>
+      <h3>I want to learn 🌱:</h3>
     </td>
     <td>
       <p>
-        <img align="center" style="margin: 0 5px;" alt="C++" width="26px" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667"/>
         <img align="center" style="margin: 0 5px;" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"/>
       </p>    
     </td>
@@ -74,8 +73,8 @@
     <td>
       <p>
         <img align="center" style="margin: 0 5px;" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
-        <img align="center" style="margin: 0 5px;" alt="Python" width="26px" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"/>
-        <img align="center" style="margin: 0 5px;" alt="PHP" width="26px" src="https://camo.githubusercontent.com/b71df4fcf19980b56b49c963638df23b5d1d2b9e9e487548649651f2f3e1d603/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667"/>
+        <img align="center" style="margin: 0 5px;" alt="C++" width="26px" src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667"/>
+        <img align="center" style="margin: 0 5px;" alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
       </p>    
     </td>
   </tr>
