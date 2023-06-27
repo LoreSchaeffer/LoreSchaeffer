@@ -98,7 +98,7 @@
 ## 📫 Reach me:
 
 <p>
-  <a href="mailto:loreschaeffer@multicore.network"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:loreschaeffer@multicore.network">loreschaeffer@multicore.network</a>
+  <a href="mailto:loreschaeffer@multicore.network"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/mail.png"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:loreschaeffer@multicore.network">loreschaeffer@multicore.network</a>
 </p>
 <p>
   <a href="https://t.me/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Telegram" width="26px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"/></a>Telegram &middot; <a style="font-weight: bold;" href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
@@ -107,13 +107,13 @@
   <a href="https://multicore.network/discord"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord &middot; <a style="font-weight: bold;" href="https://multicore.network/discord">@loreschaeffer</a>
 </p>
 <p>
-  <a href="https://twitch.tv/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Twitch" width="26px" src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"/></a>Twitch &middot; <a style="font-weight: bold;" href="https://twitch.tv/LoreSchaeffer">twitch.tv/LoreSchaeffer</a>
+  <a href="https://twitch.tv/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Twitch" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/twitch.png"/></a>Twitch &middot; <a style="font-weight: bold;" href="https://twitch.tv/LoreSchaeffer">twitch.tv/LoreSchaeffer</a>
 </p>
 <p>
   <a href="https://instagram.com/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Instagram" width="26px" src="https://skillicons.dev/icons?i=instagram&theme=light"/></a>Instagram &middot; <a style="font-weight: bold;" href="https://instagram.com/LoreSchaeffer">@LoreSchaeffer</a>
 </p>
 <p>
-  <a href="https://ko-fi.com/loreschaeffer"><img align="left" style="margin-right: 5px;" alt="Paypal" width="26px" src="https://camo.githubusercontent.com/9873545039eafb3a7c460a26fff1325319014b4f602faec376d3e6fa1f155561/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f70617970616c2e737667"/></a>Supportami &middot; <a style="font-weight: bold;" href="https://ko-fi.com/loreschaeffer">https://ko-fi.com/loreschaeffer</a>
+  <a href="https://ko-fi.com/loreschaeffer"><img align="left" style="margin-right: 5px;" alt="Paypal" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/ko-fi.png"/></a>Supportami &middot; <a style="font-weight: bold;" href="https://ko-fi.com/loreschaeffer">https://ko-fi.com/loreschaeffer</a>
 </p>
 
 <br>
