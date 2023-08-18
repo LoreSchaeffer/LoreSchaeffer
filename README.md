@@ -63,7 +63,6 @@
     <td>
       <p>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=cs&theme=light"/>
-        <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=typescript&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=react"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=vue&theme=light"/>
       </p>    
@@ -80,6 +79,7 @@
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=c&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=cpp&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=electron&theme=light"/>
+        <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=typescript&theme=light"/>
       </p>    
     </td>
   </tr>
