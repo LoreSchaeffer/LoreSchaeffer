@@ -4,27 +4,27 @@
 
 <table align="center">
   <tr>
-    <td>  
-      <p>
-        <a style="line-height: 26px" href="https://github.com/MultiCoreNetwork/MCLib">
-        <img align="left" style="margin-right: 5px;" alt="MCLib" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
-        </a>Java Utility Libraries &middot; <a style="font-weight: bold;" href="https://github.com/MultiCoreNetwork/MCLib">MCLib</a>
-      </p>
-    </td>
     <td>
       <p>
-        <a style="line-height: 26px" href="https://github.com/MultiCoreNetwork/MBCore">
-        <img align="left" style="margin-right: 5px;" alt="MBCore" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
-        </a>Spigot/Bungeecord libraries &middot; <a style="font-weight: bold;" href="https://github.com/MultiCoreNetwork/MBCore">MBCore</a>
+        <a style="line-height: 26px" href="https://github.com/MultiCoreNetwork/AIO">
+        <img align="left" style="margin-right: 5px;" alt="AIO" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
+        </a>A macro keyboard &middot; <a style="font-weight: bold;" href="https://github.com/LoreSchaeffer/MacroBoard">MacroBoard</a>
+      </p>
+    </td>
+    <td>  
+      <p>
+        <a style="line-height: 26px" href="https://github.com/LoreSchaeffer/CustomF3Brand">
+        <img align="left" style="margin-right: 5px;" alt="CustomF3Brand" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
+        </a>Change your server brand in F3 &middot; <a style="font-weight: bold;" href="https://github.com/LoreSchaeffer/CustomF3Brand">CustomF3Brand</a>
       </p>
     </td>
   </tr>
   <tr>
     <td>
       <p>
-        <a style="line-height: 26px" href="https://github.com/MultiCoreNetwork/AIO">
-        <img align="left" style="margin-right: 5px;" alt="AIO" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
-        </a>A macro keyboard &middot; <a style="font-weight: bold;" href="https://github.com/LoreSchaeffer/MacroBoard">MacroBoard</a>
+        <a style="line-height: 26px" href="https://github.com/LoreSchaeffer/NBTRecipes">
+        <img align="left" style="margin-right: 5px;" alt="NBTRecipes" width="26px" src="https://skillicons.dev/icons?i=github&theme=light"/>
+        </a>Create recipes with NBTs &middot; <a style="font-weight: bold;" href="https://github.com/LoreSchaeffer/NBTRecipes">NBTRecipes</a>
       </p>
     </td>
     <td>
@@ -98,7 +98,7 @@
 ## 📫 Reach me:
 
 <p>
-  <a href="mailto:loreschaeffer@multicore.network"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/mail.png"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:loreschaeffer@multicore.network">loreschaeffer@multicore.network</a>
+  <a href="mailto:lorenzo@multicore.network"><img align="left" style="margin-right: 5px; border-radius: 1%;" alt="Email" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/mail.png"/></a>Email &middot; <a style="font-weight: bold;" href="mailto:lorenzo@multicore.network">lorenzo@multicore.network</a>
 </p>
 <p>
   <a href="https://t.me/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Telegram" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/506b04d5b160c9d2d3e0a705854ad37bf58ef3bd/resources/telegram.png"/></a>Telegram &middot; <a style="font-weight: bold;" href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
