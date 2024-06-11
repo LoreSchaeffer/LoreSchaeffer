@@ -104,7 +104,10 @@
   <a href="https://t.me/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Telegram" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/506b04d5b160c9d2d3e0a705854ad37bf58ef3bd/resources/telegram.png"/></a>Telegram &middot; <a style="font-weight: bold;" href="https://t.me/LoreSchaeffer">@LoreSchaeffer</a>
 </p>
 <p>
-  <a href="https://multicore.network/discord"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord &middot; <a style="font-weight: bold;" href="https://multicore.network/discord">@loreschaeffer</a>
+  <a href="https://multicore.network/dsdev"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord (ENG) &middot; <a style="font-weight: bold;" href="https://multicore.network/dsdev">MultiCore Developers</a>
+</p>
+<p>
+  <a href="https://multicore.network/discord"><img align="left" style="margin-right: 5px;" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord&theme=light"/></a>Discord (ITA) &middot; <a style="font-weight: bold;" href="https://multicore.network/discord">@loreschaeffer</a>
 </p>
 <p>
   <a href="https://twitch.tv/LoreSchaeffer"><img align="left" style="margin-right: 5px;" alt="Twitch" width="26px" src="https://github.com/LoreSchaeffer/LoreSchaeffer/blob/69785c1ed6a5774b298181e3d81cdc92dbf25280/resources/twitch.png"/></a>Twitch &middot; <a style="font-weight: bold;" href="https://twitch.tv/LoreSchaeffer">twitch.tv/LoreSchaeffer</a>
