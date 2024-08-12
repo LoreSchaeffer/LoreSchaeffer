@@ -75,8 +75,6 @@
     <td>
       <p>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=spring&theme=light"/>
-        <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=javascript&theme=light"/>
-        <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=c&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=cpp&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=electron&theme=light"/>
         <img align="center" style="margin: 0 5px;" width="26px" src="https://skillicons.dev/icons?i=typescript&theme=light"/>
